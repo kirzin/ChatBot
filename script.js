@@ -1,4 +1,4 @@
-const apiKey = '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';
+const apiKey = 'YOUR_KEY';
 const endpoint = 'https://api.openai.com/v1/engines/davinci/completions';
 
 document.querySelector('form').addEventListener('submit', event => {
